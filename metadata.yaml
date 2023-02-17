@@ -1,0 +1,33 @@
+_repo: The-medieval-Inquisition-A-study-in-religious-persecution_69851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gorham, Charles T. (Charles Turner)
+    alias: Gorham, Charles Turner
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '55453'
+    url: http://www.gutenberg.org/2009/agents/55453
+description: ''
+gutenberg_issued: '2023-01-21'
+identifiers:
+  gutenberg: '69851'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t3xs5ns5d&view=1up&seq=7
+pgterms:marc905: 20200301035519gorman
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: Brian Coe, The book cover image was created by the transcriber and
+  is placed in the public domain, and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: 'United Kingdom: Watts & Co,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inquisition'
+- !lcc 'BX'
+- GITenberg
+title: 'The medieval Inquisition: A study in religious persecution'
+url: http://www.gutenberg.org/ebooks/69851
